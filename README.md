@@ -1,4 +1,4 @@
-# Web-Scraping-Automation
+# Web-Scraping & Automation
 
 ## Libraries and Documentation
 
